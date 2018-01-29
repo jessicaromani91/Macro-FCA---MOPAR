@@ -1,4 +1,4 @@
-# Macro-FCA---MOPAR
+# Macro-FCA: MOPAR
 Desenvolvimento de uma simples macro de importação  de dados 
 ' Macro utilizada para fazer a importação dos dados.
 Sub Importar()
